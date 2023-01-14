@@ -1,0 +1,11 @@
+{
+  "identifier": "dev.myreli.sn.action-github-push",
+  "name": "Github Push",
+  "content_type": "SN|Component",
+  "area": "editor-stack",
+  "version": "0.1.0",
+  "description": "Github Push Action for Standard Notes.",
+  "url": "https://myreli.dev/sn.github-push/index.html",
+  "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn.github-push@main/extension-installer.json",
+  "download_url": "https://github.com/myreli/sn.github-push/archive/main.zip"
+}
